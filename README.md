@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamg2a50
 - 👀 I’m interested in Learning New things
-- 🌱 I’m currently learning Programming languages
+- 🌱 I’m currently Pursuing Software Development Engineering in Testing 
 - 💞️ I’m looking to collaborate into Tech Companies
 - 📫 How to reach me shubham.g2a50@gmail.com
 - 😄 Pronouns: he/him
