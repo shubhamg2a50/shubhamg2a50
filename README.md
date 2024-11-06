@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishnu Kumar Gupta</h1>
-<h3 align="center">Software Developer Engineer in Testing</h3>
+<h3 align="center">Software Development Engineer in Test (SDET)</h3>
 
 - 🔭 I’m currently based in **Mumbai**
 
