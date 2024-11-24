@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **shubham.g2a50@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nWXsvrDi__cVEVYyj2zz0CKNxp4Gduvx/view?usp=drive_link)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
