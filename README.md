@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubham.g2a50@gmail.com**
 
-- 📄 Know about my experiences [Resume](file:///C:/Users/Shubham/Downloads/ShubhamSDETResume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15ScPNtQzlnv6AtasLIpCOJB2Mw3uUURO/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
