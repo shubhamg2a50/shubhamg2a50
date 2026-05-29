@@ -26,8 +26,7 @@
 
 - An 12th Grade Pass Student,
 - Software Development Engineering in Testing,
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamg2a50)](https://github.com/anuraghazra/github-readme-stats)
+- Pursuing BCA
 
 <!---
 shubhamg2a50/shubhamg2a50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
